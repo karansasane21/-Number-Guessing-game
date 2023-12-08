@@ -9,11 +9,11 @@ Welcome to the Number Guessing Game in Java! This simple console-based game allo
    ```bash
    git clone https://github.com/your-username/number-guessing-game-java.git
    
-  ```bash
-  cd number-guessing-game-java
+ ```bash
+ cd number-guessing-game-java
 
-  ```bash
-  java NumberGuessingGame
+ ```bash
+ java NumberGuessingGame
 
 
 ```bash
